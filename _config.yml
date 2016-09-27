@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: A Child's Dream
 locale: en_US
-description: Describe your website here.
+description: Collection of thoughts and facts realted but not limited to Computer Science.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+# url: http://localhost:4000
+url: https://sandeepkumarpani888.github.io/blog
 
 # Jekyll configuration
 
@@ -36,13 +37,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sandeep Kumar Pani
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: sandeepkumarpani888@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
-  github: #username
+  facebook: sounding.eagle
+  github: sandeepkumarpani888
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -51,7 +52,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: sandeepkumarpani888
     analytics:
     verify:
     ad-client:
